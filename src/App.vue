@@ -26,12 +26,12 @@ export default {
   .container
     box-sizing: border-box
     max-width: 1200px
-    margin: 2.5% auto
+    margin: 20px auto
     background-color: #fff
     min-height: 900px
     border-radius: 35px
     border: 3px solid #00D1FF
-    padding: 40px 160px
+    padding: 20px 160px
 
     @media all and (max-width: 1366px)
       padding: 55px 70px
